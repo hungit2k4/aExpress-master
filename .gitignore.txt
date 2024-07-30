@@ -1,0 +1,83 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/local
+/out
+
+# Gradle
+.gradle/
+/build/
+/gradle/
+/wrapper/
+/**/build/
+/**/generated/
+/**/out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# IntelliJ IDEA
+.idea/
+.idea_modules/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules
+.idea/scopes
+.idea/jsLibraryMappings.xml
+
+# Log files
+*.log
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Ignore Gradle dynamic properties
+gradle.properties
+**/gradle.properties
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# folders for detachable storages
+.sass-cache
+.project
+.settings
+.metadata
+.cxx/
+.local.properties
+.gradle/
+.idea/
+
+# ignore the release APK file
+*.apk
+
+# ignore the generated map for Google Play services
+.google-play-services.json

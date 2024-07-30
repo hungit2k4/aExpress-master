@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hishd:TinyCart:1.0.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6a851024de06c03708d536eef7799bf7/transformed/TinyCart-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a851024de06c03708d536eef7799bf7/transformed/TinyCart-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hishd/TinyCart/1.0.1/6c671b19e852b9ddebe5a25bb8a80c5e2832c3b0/TinyCart-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
